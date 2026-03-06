@@ -15,7 +15,7 @@ The question of Bitcoin’s fundamental value remains open. Critics argue that i
 
 For the complete 10-page document with detailed derivations, figures, and references, see the PDF:
 
-[Bitcoin Fair Value PDF](document.pdf)
+[Bitcoin Fair Value PDF](dokument.pdf)
 
 ---
 
